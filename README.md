@@ -26,6 +26,7 @@ Want to know more? Check my [website](https://thelicato.io).
 ---
 
 ## Projects
+- [RoboDroid](https://github.com/cybersecsi/robodroid): Manage and deploy Android machines with pre-defined behaviors for Cyber Range environments
 - [RAUDI](https://github.com/cybersecsi/RAUDI): Regularly and Automatically Updated Docker Images
 - [Dockerized Android](https://github.com/cybersecsi/dockerized-android): A container-based framework to execute Android in Docker
 - [HOUDINI](https://github.com/cybersecsi/HOUDINI): Hundreds of Offensive and Useful Docker Images for Network Intrusion
