@@ -3,7 +3,7 @@
 ## About Me
 
 - 🎓 M.Sc. Degre in "Computer Engineering" at University of Naples "Federico II"
-- 👨‍💻 Cybersecurity Researcher at [SecSI](https://secsi.io)
+- 👨‍💻 Penetration Tester at [SECFORCE](https://secforce.com)
 - 🖖 Incurable Nerd
 - 🎞️ Movie/TV Show addicted
 
