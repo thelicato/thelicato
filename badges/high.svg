@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="24" role="img" aria-label="HIGH">
+  <title>HIGH</title>
+  <rect width="110" height="24" fill="#e6402e"/>
+  <text x="55" y="16" text-anchor="middle"
+        font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+        font-size="12" font-weight="700" fill="#fff">
+    HIGH
+  </text>
+</svg>

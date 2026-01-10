@@ -11,22 +11,19 @@ Want to know more? Check my [website](https://thelicato.io).
 
 ---
 
-## Skills
-
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+## CVEs
+- <img src="./badges/high.svg" style="height: 25px"> **CVE-2025-58374**: Auto-approve allows npm install execution of malicious postinstall scripts. (RooCode)
+- <img src="./badges/medium.svg" style="height: 25px"> **CVE-2025-58373**: Symlink-bypass of .rooignore leading to unintended file disclosure. (RooCode)
+- <img src="./badges/high.svg" style="height: 25px"> **CVE-2025-58372**: Potential Remote Code Execution via .code-workspace. (RooCode)
+- <img src="./badges/medium.svg" style="height: 25px"> **CVE-2024-28722**: Reflected XSS. (Innovaphone myPBX)
+- <img src="./badges/high.svg" style="height: 25px"> **CVE-2024-3761**: Missing Authorization on Delete Datasets. (lunary-ai/lunary)
+- <img src="./badges/medium.svg" style="height: 25px"> **CVE-2023-7194**: Reflected XSS. (Meris WordPress Theme)
+- <img src="./badges/medium.svg" style="height: 25px"> **CVE-2022-2535**: Unauthenticated Arbitrary Post Title Disclosure. (SearchWP Live Ajax Search WordPress plugin)
 
 ---
 
 ## Projects
-- [DroidGround](https://github.com/SECFORCE/droidground): A simple playground for Android CTF challenges.
+- [DroidGround](https://github.com/SECFORCE/droidground): A flexbile playground for Android CTF challenges. <a href="https://blackhat.com/eu-25/arsenal/schedule/index.html#droidground-a-flexible-playground-for-android-ctf-challenges-47803"><img src="./badges/blackhat-2025.svg" style="height: 25px"></a>
 - [RoboDroid](https://github.com/cybersecsi/robodroid): Manage and deploy Android machines with pre-defined behaviors for Cyber Range environments
 - [RAUDI](https://github.com/cybersecsi/RAUDI): Regularly and Automatically Updated Docker Images
 - [Dockerized Android](https://github.com/cybersecsi/dockerized-android): A container-based framework to execute Android in Docker
@@ -35,11 +32,4 @@ Want to know more? Check my [website](https://thelicato.io).
 
 ---
 
-## Analytics
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thelicato&show_icons=true&theme=dark"/>
-</p>
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelicato&theme=dark&&layout=compact" /> 
-</p>
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/thelicato.png)

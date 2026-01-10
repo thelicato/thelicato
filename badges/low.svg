@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="24" role="img" aria-label="LOW">
+  <title>LOW</title>
+  <rect width="110" height="24" fill="#f5e3a1"/>
+  <text x="55" y="16" text-anchor="middle"
+        font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+        font-size="12" font-weight="700" fill="#fff">
+    LOW
+  </text>
+</svg>
