@@ -3,7 +3,7 @@
 ## About Me
 
 - 🎓 M.Sc. Degre in "Computer Engineering" at University of Naples "Federico II"
-- 👨‍💻 Penetration Tester at [SECFORCE](https://secforce.com)
+- 👨‍💻 Senior Penetration Tester at [SECFORCE](https://secforce.com)
 - 🚩 CTF Player at [napwnli](https://napwn.li)
 - 🖖 Incurable Nerd
 - 🎞️ Movie/TV Show addicted
